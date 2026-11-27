@@ -1,10 +1,10 @@
-export const text = `There is a hum in most rooms that nobody puts there on purpose. A fridge, a fan, a laptop, a street. It runs under the reading, steady, not asking to be noticed.
+export const text = `Maybe this is not the first. But if it is, the screen is still cold and the day has not settled into its shape yet. The first reading of a day is different. The eyes are still themselves.
 
-You read over it. That is its own kind of skill, to keep your place while the world makes its usual noise.
+It is a lot to put on a page, being first. This one will not rise to it, but it can be here.
 
-Somewhere a chair creaks and it is not you. Somewhere a door goes. The paragraph does not care. Neither do you.
+Whatever you were doing a minute ago is still on you. A dream, a bill, a small worry with a name. You brought all of it and still opened the entry.
 
-So let the hum continue. It means the room is alive and so is the day and the reading is part of both.
+If the first one is clumsy, let it be clumsy. The day will smooth out. The important thing is that you began, and began in order, at the top.
 
-When the page ends, the hum will still be there. It will wait with you through the gap before the next entry. Good company, if you let it.
+Good morning, or whatever hour it is. Here is the first line.
 `;
