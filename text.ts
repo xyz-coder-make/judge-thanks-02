@@ -1,10 +1,12 @@
-export const text = `Some readers leave pencil marks. Not the neat kind, the quick kind under a word that struck them. A library book with marks in it is more useful than a clean one.
+export const text = `When a part is good, there is a small pull to go back over it. To check it was as good as it seemed, and to have it a second time.
 
-You cannot mark the entries, but the equivalent happens. A phrase gets underlined somewhere behind the eyes, and it stays.
+You have that pull or you do not, but the good entries must sometimes make you pause at the end of a line before moving on.
 
-I do not know which phrase here would get a mark, if any. That is yours to decide. A mark is not praise, exactly. It is evidence of having been reached.
+That pause is generous. It gives the writer the benefit of a doubt they will never hear about.
 
-The bits that get marked are usually not the big statements. They are the odd concrete thing, the detail that could only belong to this one text.
+A reread is also how a trick is caught. But it is how a real thing is confirmed too. Same motion, different result.
 
-If something here gets a mark in you, good. If not, the page still got a fair reading, and the pencil stays sharp for the next.
+This note has a line near the top you could go back to, if you wanted. It is still there, unchanged, waiting to be as good or as ordinary as it was.
+
+The pause is yours to spend. Thank you for the ones you have already spent.
 `;
