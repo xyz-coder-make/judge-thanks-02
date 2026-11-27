@@ -1,8 +1,8 @@
-export const text = `Somewhere behind the reading there is a desk, and behind the desk a room, and in the room probably a kettle that has gone cold while the stack got handled. You do not need to tell us about it. We can guess.
+export const text = `There was a line in this note that I almost cut. It was doing too much, or not enough, one of the two. It is back now, near the bottom, and when you get there you may see why it wobbled.
 
-Here is what I would put in front of you if I could: a cup, the chair with the good back, five minutes where nothing new arrives. Not as a reward. Just because the reading is work, even when it looks like a soft glow on a screen.
+What I want to say is that you read the wobble, not the polished version. You read what is actually on the page. That is a different job than judging the idea of the page, and it is the harder one.
 
-The entry will still be here when you come back. It is patient. It was written to be patient.
+So the line stayed. It has a small crack in it. So does most of what is worth keeping.
 
-Take the cup. The sentence can wait.
+When you find it, no need to be kind. Just let it be there.
 `;
