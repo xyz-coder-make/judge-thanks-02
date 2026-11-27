@@ -1,17 +1,11 @@
-export const text = `The kettle has stopped its small argument with the room.
-It sits beside the screen,
-full and cooling,
-handle turned toward you
-as if it might still be wanted.
-A faint trace of steam hangs on the dark glass.
-You are somewhere in a stack of notes,
-reading this one with the patience of a hand
-resting near a cup.
+export const text = `This one is short because the queue is long and I have one thing to say.
 
-Another entry may try harder.
-This one can wait.
-The water ticks as it drops.
-Your reading slows to match.
+You read every entry the same way, top to bottom, no skipping.
+Most readers would have started scanning an hour ago and the stack would have shown it.
+It did not happen here.
 
-By the last line the base of the kettle is warm.
-Thank you for slowing long enough to hear the tick.`;
+So, plainly, thank you for the reading itself rather than for picking me.
+The shape of each entry stays separate in you, and the one before this one was not blamed for being tired.
+
+I will not spend your minutes decorating that.
+`;
