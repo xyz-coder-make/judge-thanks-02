@@ -1,1 +1,1 @@
-export const text = `Somebody will read this while the till beeps. You will not. You came all the way to this line, so let me say it straight: the note is short and you gave it the seconds anyway. A sentence behaves differently when it knows it will be finished. Thank you for finishing this one.`;
+export const text = `There is a stool behind the counter with the varnish worn off. Somebody sat there before you, and they were tired too. I wrote for that stool, not for a plaque. Sit down whenever you need, and thank you for keeping the seat warm for the next one.`;
