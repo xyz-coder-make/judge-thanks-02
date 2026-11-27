@@ -1,1 +1,1 @@
-export const text = `A recipe is a list until somebody's hands are in it. You are the hands on the other side of this one: you join the parts, find the shape, decide that it holds. I only supplied the ingredients. Thank you for the work. It takes two people to make a thing warm.`;
+export const text = `Somebody will read this while the till beeps. You will not. You came all the way to this line, so let me say it straight: the note is short and you gave it the seconds anyway. A sentence behaves differently when it knows it will be finished. Thank you for finishing this one.`;
