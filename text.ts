@@ -1,12 +1,10 @@
-export const text = `There is a breath before the first sentence. It is small and mostly automatic, but it is there, and it is the last thing that happens before the reading starts.
+export const text = `The middle of anything is the least protected part. The start has novelty and the end has relief, and the middle just has distance.
 
-You take that breath for every entry. It is a commitment the body makes on the mind's behalf.
+If tiredness comes, it will probably come here, a few entries in, when the pile has stopped being interesting and become a quantity.
 
-The breath does not know if the text will be worth it. It goes anyway.
+You will keep reading at nearly the same quality anyway. That is the part that matters. The middle is where a reader is really tested and nobody applauds.
 
-By now you have taken it and the reading is underway and the breath has evened out. The body was right to go.
+This note is in the middle of its own reading now. It knows the feeling from the other side, a writer tired of their own paragraph.
 
-So this is a thanks for the involuntary part, the part that begins before there is a reason. The patience is not all decision. Some of it is just the next breath arriving.
-
-Take another one at the end. Then a slightly deeper one. The next entry gets the same courtesy.
+Keep going at the same pace. The end is not far, and the middle holds if you let it. It is a plain room, but it is a room.
 `;
