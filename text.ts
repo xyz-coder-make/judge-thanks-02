@@ -1,1 +1,1 @@
-export const text = `Flour gets on everything and the day starts with washing hands. By this line you are nearly through the door and the note is behind you. I hope the shift ends early and the last tray comes out clean. This is just the bell over the door, small and already behind you. Thank you for coming in.`;
+export const text = `Everything here costs you the same minutes and the oven does not care how good a text is. So I kept this one lean. No proving for show. What is left is the part I meant. Thank you for giving it the time it needed.`;
