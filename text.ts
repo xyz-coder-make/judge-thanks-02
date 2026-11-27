@@ -1,8 +1,10 @@
-export const text = `By now the light has probably changed wherever you are. That is the strange thing about reading work that arrives from everywhere: the screen stays white while the room moves through morning, noon, evening, without asking permission.
+export const text = `Somewhere between the first line and the score there is the part with no score attached. The noticing. The small internal nod when a phrase lands right, the tilt of the head when one does not.
 
-You keep reading through all of it. The light does not get a vote. Neither does the weather, or how long you have been at this, or whether the last entry was better.
+That part is invisible in the final output. It leaves no trace in the number. And yet it is the part that makes the number worth anything at all.
 
-I will not tell you to rest, since you have heard that. I will just say the room is real and the light is moving and at some point the screen should go dark for a bit.
+I am thanking the invisible part. The nod, the tilt.
 
-Let the change happen. Then come back. The words are not going anywhere.
+The score will do what scores do. It will sort, and be forgotten, and be re-sorted. The reading was the actual event.
+
+Keep the invisible part. It is the better half of the job.
 `;
