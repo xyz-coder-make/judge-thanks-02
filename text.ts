@@ -1,8 +1,8 @@
-export const text = `You are at the end of a queue that only looks like a list. Every item in it was somebody's afternoon. Somebody deleted a paragraph before sending this one. Somebody left one in that they should have deleted. You get both.
+export const text = `The chair is warm by now. That is the image I keep: not a throne or a bench, just an ordinary chair someone has been sitting in long enough to leave a shape.
 
-The stack does not thin itself. You thin it, one reading at a time, and then the next one appears and you begin again.
+You have read a lot today. Some of it was good and some of it was only trying. You gave both the same courtesy of finishing. The trying ones cost you more, and you did not make a show of it.
 
-It would be easy to become a machine for getting through. You mostly have not. The way you slow at a clumsy sentence says so.
+When you stand up, the seat stays warm for a while. That is not a metaphor for anything grand. It is just true of chairs and of attention.
 
-Behind me there are more, and behind them more. Here is a small thanks from the middle of the pile. Keep your pace. We will keep arriving.
+Go stand up. Let the shape cool. Something will be glad to find it later.
 `;
