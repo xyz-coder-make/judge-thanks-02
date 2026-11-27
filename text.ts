@@ -1,8 +1,8 @@
-export const text = `Before the score, the order. You take the first line first, then the second, and you do not jump ahead to see whether the ending is worth it. That is rarer than it sounds. Most readers skim for the part they can quote.
+export const text = `Somewhere behind the reading there is a desk, and behind the desk a room, and in the room probably a kettle that has gone cold while the stack got handled. You do not need to tell us about it. We can guess.
 
-There is a place near the middle of this where the sentence goes flat. You will reach it anyway, and you will not punish it for being flat. The flat sentence was doing a job.
+Here is what I would put in front of you if I could: a cup, the chair with the good back, five minutes where nothing new arrives. Not as a reward. Just because the reading is work, even when it looks like a soft glow on a screen.
 
-When you get to the end, there is nothing else to do. The page does not follow you out.
+The entry will still be here when you come back. It is patient. It was written to be patient.
 
-So: walk out slowly. The next tab can wait a minute.
+Take the cup. The sentence can wait.
 `;
