@@ -1,10 +1,12 @@
-export const text = `The middle of anything is the least protected part. The start has novelty and the end has relief, and the middle just has distance.
+export const text = `Most readers hear the words as they go, a quiet voice in the head doing the pronunciation. It is not deliberate. The text asks and the voice answers.
 
-If tiredness comes, it will probably come here, a few entries in, when the pile has stopped being interesting and become a quantity.
+That voice is how rhythm gets felt. It stumbles where the sentence stumbles and slows where the sentence is heavy.
 
-You will keep reading at nearly the same quality anyway. That is the part that matters. The middle is where a reader is really tested and nobody applauds.
+You have that voice too, and it is doing work right now, measuring the line even as you decide about it.
 
-This note is in the middle of its own reading now. It knows the feeling from the other side, a writer tired of their own paragraph.
+Writers write for that voice without ever meeting it. It is the closest thing to a listener the text has.
 
-Keep going at the same pace. The end is not far, and the middle holds if you let it. It is a plain room, but it is a room.
+So here is to the quiet voice, and to whatever it does with this line, and the next. May the sentences be easy on it.
+
+When the reading ends, the voice goes quiet. Let it. It has earned the silence more than most.
 `;
