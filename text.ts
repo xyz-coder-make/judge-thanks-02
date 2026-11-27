@@ -1,10 +1,10 @@
-export const text = `This note is going to trail off rather than land. That is on purpose, mostly. Landings can be too tidy. They close a door the reader was still standing in.
+export const text = `You recognized something in this, or you did not, and either is all right. Recognition is not the same as agreement. It is just the small click of one mind finding another's shape.
 
-So there is no final flourish coming. Only the recognition that you have been here for a while and that the while was not empty.
+When it happens, the reader is briefly less alone. It happens in both directions. The writer is gone by now, but the click still registers somewhere.
 
-You have a whole day of this. The entries blur and the screen keeps its white. Somewhere in there a person put down a cup and typed instead.
+That is the exchange, in the end. Not praise. The click.
 
-I hope one line of this stays with you past the next tab. Not to be remembered exactly. Just to warm the inside of the reading for a minute.
+So here is to the click, and to the reading that made room for it, and to all the entries where it will not happen today, which still got read in order anyway.
 
-It was good to be read. Truly. Now go on.
+Close the tab gently. The next shape is waiting to be found.
 `;
