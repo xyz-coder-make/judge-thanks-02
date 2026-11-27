@@ -1,8 +1,8 @@
-export const text = `There is a sentence further down that arrives on the wrong foot. It starts too fast and then apologizes by being short. I left it because fixing it would have made it look like something it is not.
+export const text = `After the last line of an entry there is a small quiet that belongs to the reader, not the writer. The writer has already gone. You are the one still in the room.
 
-You will read it, and you will see the stumble, and you will keep going. That is the whole transaction. No one has to pretend the stumble is style.
+I have been thinking about that quiet. It is where the reading settles, where the text stops being a task and becomes a thing that happened. Nothing needs to fill it.
 
-Most writing is mostly this: a person arranging words and getting some of them wrong. The judge who can sit with wrong without reaching for a red pen is worth writing for.
+So when you finish here, do not immediately open the next one. Let this one be finished for a second. The quiet is not wasted time. It is the sound of a thing landing.
 
-So thanks for the sitting-with. The sentence is down there waiting. Be gentle with it, or not. It has survived worse.
+Then open the next. Someone there is waiting, and they have also been brave in a small way.
 `;
