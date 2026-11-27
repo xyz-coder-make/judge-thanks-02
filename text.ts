@@ -1,12 +1,12 @@
-export const text = `Some people keep a note taped inside a cupboard door, where only they will see it. Not a motto. Something small and true, like a name or a reminder to eat.
+export const text = `The last entries of a session get a different reader than the first ones. Tired, a little fast, wanting the end, but still careful in a lower gear.
 
-This note would like to be that kind. Not on a wall, not framed. Somewhere opened once a day by accident and read in passing.
+You are probably close to that point now, or you know the shape of it. The last stretch is where a reader's care gets quiet rather than gone.
 
-The inside of a cupboard is a private place. You do not perform for it. A note there can be plain.
+Quiet care is still care. It finishes the line and starts the next. It does not announce itself.
 
-So be plain with it: you read a thing today, several things, and one of them was this, and the reading counted even though no one saw.
+So this note asks nothing of the fresh reader. It is built for the tired one. It keeps its sentences short and leaves the rest alone.
 
-Close the cupboard when you are done. The note stays, and the next time the door opens it will be there, small and true and not asking anything.
+When you close this, there may be one or two more, or none. Either way you did the last stretch of something today.
 
-That is the whole ambition. Thank you for opening the door.
+Set the work down when it is done. The tiredness is the receipt. Thank you for spending it here, at the end, where it is hardest to be kind.
 `;
