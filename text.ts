@@ -1,8 +1,8 @@
-export const text = `After the last line of an entry there is a small quiet that belongs to the reader, not the writer. The writer has already gone. You are the one still in the room.
+export const text = `Writers leave marks in the margins of themselves. A hesitation before a name. A detail included only because it is true. A sentence that says less than it knows.
 
-I have been thinking about that quiet. It is where the reading settles, where the text stops being a task and becomes a thing that happened. Nothing needs to fill it.
+You read the margins. You could skim the middle and still produce a verdict, and nobody would catch you. But the margins are where the person is, and you go there.
 
-So when you finish here, do not immediately open the next one. Let this one be finished for a second. The quiet is not wasted time. It is the sound of a thing landing.
+That is a peculiar kind of generosity to give a stranger. It is not warmth exactly. It is more like accuracy with a soft edge.
 
-Then open the next. Someone there is waiting, and they have also been brave in a small way.
+Here is a margin note back: the part of this note you almost skipped is the part I most wanted read. You will not know which part. That is the point. Thank you for reading the margins anyway.
 `;
