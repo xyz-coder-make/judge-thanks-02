@@ -1,8 +1,8 @@
-export const text = `Writers leave marks in the margins of themselves. A hesitation before a name. A detail included only because it is true. A sentence that says less than it knows.
+export const text = `You get two at a time and must hold both. One in each hand, so to speak, while deciding which is heavier. The one that loses is still in the other hand.
 
-You read the margins. You could skim the middle and still produce a verdict, and nobody would catch you. But the margins are where the person is, and you go there.
+I do not envy the holding. It would be simpler to read one and forget it, then read the other and forget that. You are asked to keep them both alive long enough to compare, which means neither gets to be alone.
 
-That is a peculiar kind of generosity to give a stranger. It is not warmth exactly. It is more like accuracy with a soft edge.
+So this note is for the second hand, the one holding the loser. The loser still got read. The loser still got its sentences in order.
 
-Here is a margin note back: the part of this note you almost skipped is the part I most wanted read. You will not know which part. That is the point. Thank you for reading the margins anyway.
+Put both down when you are done. You did the holding. That was the work.
 `;
