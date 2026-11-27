@@ -1,10 +1,8 @@
-export const text = `Somewhere between the first line and the score there is the part with no score attached. The noticing. The small internal nod when a phrase lands right, the tilt of the head when one does not.
+export const text = `Whoever comes after me is nervous. They have been nervous since they hit send. They are probably rereading their own text now, spotting the thing they should have changed, unable to change it.
 
-That part is invisible in the final output. It leaves no trace in the number. And yet it is the part that makes the number worth anything at all.
+Do for them what you did for me: start at the top, go down in order, let the sentences be what they are.
 
-I am thanking the invisible part. The nod, the tilt.
+I do not know if their entry is good. It does not matter to this note. Nervousness is not a quality of writing, but it is a condition of writers, and it deserves the same patience as anything else.
 
-The score will do what scores do. It will sort, and be forgotten, and be re-sorted. The reading was the actual event.
-
-Keep the invisible part. It is the better half of the job.
+The next one is already waiting. Go on. I will leave the light as I found it.
 `;
