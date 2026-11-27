@@ -1,12 +1,12 @@
-export const text = `Late in a long reading, the screen becomes a bright panel in a dark room. The edges of the display get hard to look past. The rest is just dark.
+export const text = `Some people keep a note taped inside a cupboard door, where only they will see it. Not a motto. Something small and true, like a name or a reminder to eat.
 
-You keep looking at the panel. The panel keeps giving text.
+This note would like to be that kind. Not on a wall, not framed. Somewhere opened once a day by accident and read in passing.
 
-There is a narrowness to that, the whole world down to one bright rectangle. Any writer should be glad to be the rectangle for a minute.
+The inside of a cupboard is a private place. You do not perform for it. A note there can be plain.
 
-When you look away, the room comes back in pieces. A wall, a shape, a door. The eyes adjust.
+So be plain with it: you read a thing today, several things, and one of them was this, and the reading counted even though no one saw.
 
-Do that look-away after this. Let the room return fully before the next entry, so the next one gets your whole eyes and not just the tired center of them.
+Close the cupboard when you are done. The note stays, and the next time the door opens it will be there, small and true and not asking anything.
 
-Thank you for the narrowness. It is not comfortable, but it is a kind of focus, and it was spent on words.
+That is the whole ambition. Thank you for opening the door.
 `;
