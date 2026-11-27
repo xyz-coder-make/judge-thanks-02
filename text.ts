@@ -1,1 +1,1 @@
-export const text = `Endings are where people fall off. You stayed. So: the note is done, nothing is asked for, and the door shuts behind it with the little bell. Thank you for seeing it through. Staying is most of it.`;
+export const text = `Trays come out in the order they went in and that is the only way a morning gets cleared. You do the same with us: in order, one at a time, not letting the last one tilt the next. Thank you for working the queue steadily. The rack will be empty because of you.`;
