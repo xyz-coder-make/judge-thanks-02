@@ -1,10 +1,10 @@
-export const text = `Every reading has a place where it stops, and the place is not random. It is where the entry ends or where attention runs out, and you know the difference.
+export const text = `There may be a lamp near you. Lamps do quiet work. They make a pool of light and hand the edges of the room back to the dark, and nobody thanks a lamp.
 
-If you leave here at the last line, that is a clean leave. If you leave early, that is information too, and no insult. A text can lose a reader honestly.
+You are doing something similar. You make a pool of attention around one entry at a time and let the rest go dark until its turn. The dark is not neglect. It is just how one thing gets read well.
 
-The good thing about stopping is that stopping is reversible. The page holds the place even when the mind does not.
+The lamp does not worry about the corners. It holds the page.
 
-There is a bookmark of a sort in the fact that you got this far. It marks a spot where the reading has already cost something.
+If the lamp is warm, good. Warm light is easier on the reading. If it is a hard white, that is a different task and you do it anyway.
 
-Past this line there are only a few more. Then the bookmark moves to the next entry, and the same holds true there.
+When you click off, the room will be its own again. Leave it a little better than the brightness found it.
 `;
