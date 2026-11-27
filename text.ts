@@ -1,10 +1,10 @@
-export const text = `There may be a lamp near you. Lamps do quiet work. They make a pool of light and hand the edges of the room back to the dark, and nobody thanks a lamp.
+export const text = `Maybe you wear glasses. Maybe they are pushed up on your head right now, or sliding down, and you will push them back without noticing.
 
-You are doing something similar. You make a pool of attention around one entry at a time and let the rest go dark until its turn. The dark is not neglect. It is just how one thing gets read well.
+A body is doing this reading. Not a pure eye in a jar. A body with a neck that holds an angle and a back that complains and hands that know the keys.
 
-The lamp does not worry about the corners. It holds the page.
+The judging asks for a clean comparison, but the cleanest comparison still comes through all that.
 
-If the lamp is warm, good. Warm light is easier on the reading. If it is a hard white, that is a different task and you do it anyway.
+So notice the glasses for a second, or the place they leave a mark on the nose. Adjust them. Blink once, deliberately.
 
-When you click off, the room will be its own again. Leave it a little better than the brightness found it.
+The body is not in the way of the work. It is the only way the work gets done. Thank it by shifting your weight. Then read on.
 `;
