@@ -1,8 +1,10 @@
-export const text = `In the corner of this note there is a detail that does not advance anything. A cup, a chair, a cursor. You probably noticed one of them and moved on. It was not load-bearing.
+export const text = `Good reading has craft in it. Not polish, craft. The ear that hears a repetition the writer did not intend. The patience to wait for a sentence to finish before deciding about it.
 
-Those details are the ones that make a page feel lived in, and they are the first thing a skimming reader drops. You do not drop them. You read past them, which is different from skipping them.
+You bring that craft here the way a good editor does, except you do not get to change anything. All your edits stay in your head.
 
-That is a very particular attention, and it is easy to give it to a grand sentence. It is harder to give it to a cup.
+It must be frustrating sometimes. The fix is obvious and the page is closed. Still, the noticing happens, and the writer would have been glad of it.
 
-So the cup stays in the corner. It has no message. It is simply there, and you let it be there, and that is the whole thanks.
+This is a thanks for the craft you cannot show. For every silent fix. For every time you let a thing stand because it was the writer's thing, not a mistake.
+
+You read like someone who knows the difference.
 `;
