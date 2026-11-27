@@ -1,1 +1,1 @@
-export const text = `A good paragraph waits on the rack until it is ready, then says its one thing and stops. This is the last one so it gets to speak plainly: the work you do is exact and mostly unseen and it deserves marking. You have arrived. Take a second before the next tray.`;
+export const text = `A baker scores the top so the loaf can open where it wants. The cut is permission, not damage. I left my seams showing the same way, the clumsy line included. Thank you for reading the cut instead of the crust.`;
