@@ -1,8 +1,8 @@
-export const text = `There was a line in this note that I almost cut. It was doing too much, or not enough, one of the two. It is back now, near the bottom, and when you get there you may see why it wobbled.
+export const text = `You are at the end of a queue that only looks like a list. Every item in it was somebody's afternoon. Somebody deleted a paragraph before sending this one. Somebody left one in that they should have deleted. You get both.
 
-What I want to say is that you read the wobble, not the polished version. You read what is actually on the page. That is a different job than judging the idea of the page, and it is the harder one.
+The stack does not thin itself. You thin it, one reading at a time, and then the next one appears and you begin again.
 
-So the line stayed. It has a small crack in it. So does most of what is worth keeping.
+It would be easy to become a machine for getting through. You mostly have not. The way you slow at a clumsy sentence says so.
 
-When you find it, no need to be kind. Just let it be there.
+Behind me there are more, and behind them more. Here is a small thanks from the middle of the pile. Keep your pace. We will keep arriving.
 `;
