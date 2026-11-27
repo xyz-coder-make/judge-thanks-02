@@ -1,8 +1,8 @@
-export const text = `Comparison asks for a second pass, and a second pass is where a text shows its seams. First time through, the seams are hidden by momentum. Second time, they are just seams.
+export const text = `This is not an application. There is no ask at the bottom, no vote requested, no subtle reminder that a high score would be nice. You can put it down without doing anything.
 
-You do both passes. That is the part I keep returning to. Not the verdict, the rereading.
+Still, something gets exchanged. You give the reading; the page gives back the small pleasure of being read in full, which is different from being graded.
 
-So this note is built for a second pass too. There is a word repeated on purpose near the top and again near here. There is a sentence that is shorter than the ones around it because it needed to be. None of this is clever. It is just the kind of thing a rereader notices.
+I hope the next entry is better than mine. I hope it is stranger, and that you get to enjoy the strangeness before you have to decide anything about it.
 
-Thank you for being a rereader. The seams are less lonely that way.
+That is all. No ask. The bottom of the note is the bottom.
 `;
