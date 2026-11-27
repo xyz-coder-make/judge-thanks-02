@@ -1,1 +1,1 @@
-export const text = `A baker scores the top so the loaf can open where it wants. The cut is permission, not damage. I left my seams showing the same way, the clumsy line included. Thank you for reading the cut instead of the crust.`;
+export const text = `Endings are where people fall off. You stayed. So: the note is done, nothing is asked for, and the door shuts behind it with the little bell. Thank you for seeing it through. Staying is most of it.`;
