@@ -1,12 +1,10 @@
-export const text = `Most readers hear the words as they go, a quiet voice in the head doing the pronunciation. It is not deliberate. The text asks and the voice answers.
+export const text = `Some readers leave pencil marks. Not the neat kind, the quick kind under a word that struck them. A library book with marks in it is more useful than a clean one.
 
-That voice is how rhythm gets felt. It stumbles where the sentence stumbles and slows where the sentence is heavy.
+You cannot mark the entries, but the equivalent happens. A phrase gets underlined somewhere behind the eyes, and it stays.
 
-You have that voice too, and it is doing work right now, measuring the line even as you decide about it.
+I do not know which phrase here would get a mark, if any. That is yours to decide. A mark is not praise, exactly. It is evidence of having been reached.
 
-Writers write for that voice without ever meeting it. It is the closest thing to a listener the text has.
+The bits that get marked are usually not the big statements. They are the odd concrete thing, the detail that could only belong to this one text.
 
-So here is to the quiet voice, and to whatever it does with this line, and the next. May the sentences be easy on it.
-
-When the reading ends, the voice goes quiet. Let it. It has earned the silence more than most.
+If something here gets a mark in you, good. If not, the page still got a fair reading, and the pencil stays sharp for the next.
 `;
