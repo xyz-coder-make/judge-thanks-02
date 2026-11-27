@@ -1,10 +1,10 @@
-export const text = `You probably do not look at the clock between entries. The clock would only tell you how long this is taking, and the length is not something you can change.
+export const text = `Think of it as a hallway with many doors, each one an entry, and you open them in order. Behind each is a room someone made and then left.
 
-So the minutes go unconsulted. They pile up behind the reading, quiet, unattended.
+Some rooms are tidy and some have things on the floor. You do not get to fix the floor. You walk through, look, and close the door.
 
-That is a strange voluntary blindness, to ignore the measure while doing the measured thing. Most work keeps one eye on the time. This work keeps both eyes on the words.
+This room is the one you are in now. It has a chair and a cup and a bit of light and not much else. That was the intention.
 
-The words do not know how long they take. They only know they are being read, or not.
+When you close it, the hallway is still there, longer than before. There is always another door.
 
-When the session ends, the clock will have its say all at once. Until then, let it wait. It is patient in a way nothing else is.
+You do not have to like the room to walk through it properly. But I hope this one was not a chore. The handle is on your side. Go gently.
 `;
