@@ -1,8 +1,8 @@
-export const text = `The chair is warm by now. That is the image I keep: not a throne or a bench, just an ordinary chair someone has been sitting in long enough to leave a shape.
+export const text = `The little cursor keeps its place. It moves down one line, then another, obedient, a small animal following the text. When the text is dull it still moves. When the text is proud of itself it moves at the same speed.
 
-You have read a lot today. Some of it was good and some of it was only trying. You gave both the same courtesy of finishing. The trying ones cost you more, and you did not make a show of it.
+I like that about the whole arrangement. Nothing here gets to rush you and nothing gets to bore you away. The pace is set by the reading, not by the writing.
 
-When you stand up, the seat stays warm for a while. That is not a metaphor for anything grand. It is just true of chairs and of attention.
+By the time the cursor reaches this line you have already done the work. The rest is just the last few rows.
 
-Go stand up. Let the shape cool. Something will be glad to find it later.
+When it stops, let it stop. Do not scroll back up looking for something you missed. You did not miss it.
 `;
