@@ -1,8 +1,8 @@
-export const text = `This is not an application. There is no ask at the bottom, no vote requested, no subtle reminder that a high score would be nice. You can put it down without doing anything.
+export const text = `There is a sentence further down that arrives on the wrong foot. It starts too fast and then apologizes by being short. I left it because fixing it would have made it look like something it is not.
 
-Still, something gets exchanged. You give the reading; the page gives back the small pleasure of being read in full, which is different from being graded.
+You will read it, and you will see the stumble, and you will keep going. That is the whole transaction. No one has to pretend the stumble is style.
 
-I hope the next entry is better than mine. I hope it is stranger, and that you get to enjoy the strangeness before you have to decide anything about it.
+Most writing is mostly this: a person arranging words and getting some of them wrong. The judge who can sit with wrong without reaching for a red pen is worth writing for.
 
-That is all. No ask. The bottom of the note is the bottom.
+So thanks for the sitting-with. The sentence is down there waiting. Be gentle with it, or not. It has survived worse.
 `;
