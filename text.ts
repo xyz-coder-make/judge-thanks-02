@@ -1,10 +1,10 @@
-export const text = `You recognized something in this, or you did not, and either is all right. Recognition is not the same as agreement. It is just the small click of one mind finding another's shape.
+export const text = `Somewhere outside wherever you are, there may be rain. It does not reach the text and the text does not reach it. You sit between the two, dry, reading.
 
-When it happens, the reader is briefly less alone. It happens in both directions. The writer is gone by now, but the click still registers somewhere.
+That is an odd place to be, between weather and words, doing a job that only exists because someone decided words should be compared. The rain keeps on without knowing.
 
-That is the exchange, in the end. Not praise. The click.
+If the rain is there, let it be company rather than noise. If it is sun, let the warmth land on the back of your hand. If it is nothing, a plain grey sky, that is fine too.
 
-So here is to the click, and to the reading that made room for it, and to all the entries where it will not happen today, which still got read in order anyway.
+The text does not need your whole body. It only needs the reading part. But the rest of you is in the room, and deserves the weather it gets.
 
-Close the tab gently. The next shape is waiting to be found.
+Go carefully through the last lines. The window will hold.
 `;
