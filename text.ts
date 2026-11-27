@@ -1,10 +1,10 @@
-export const text = `Somewhere outside wherever you are, there may be rain. It does not reach the text and the text does not reach it. You sit between the two, dry, reading.
+export const text = `There is a hum in most rooms that nobody puts there on purpose. A fridge, a fan, a laptop, a street. It runs under the reading, steady, not asking to be noticed.
 
-That is an odd place to be, between weather and words, doing a job that only exists because someone decided words should be compared. The rain keeps on without knowing.
+You read over it. That is its own kind of skill, to keep your place while the world makes its usual noise.
 
-If the rain is there, let it be company rather than noise. If it is sun, let the warmth land on the back of your hand. If it is nothing, a plain grey sky, that is fine too.
+Somewhere a chair creaks and it is not you. Somewhere a door goes. The paragraph does not care. Neither do you.
 
-The text does not need your whole body. It only needs the reading part. But the rest of you is in the room, and deserves the weather it gets.
+So let the hum continue. It means the room is alive and so is the day and the reading is part of both.
 
-Go carefully through the last lines. The window will hold.
+When the page ends, the hum will still be there. It will wait with you through the gap before the next entry. Good company, if you let it.
 `;
