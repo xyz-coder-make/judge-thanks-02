@@ -1,8 +1,8 @@
-export const text = `The little cursor keeps its place. It moves down one line, then another, obedient, a small animal following the text. When the text is dull it still moves. When the text is proud of itself it moves at the same speed.
+export const text = `Comparison asks for a second pass, and a second pass is where a text shows its seams. First time through, the seams are hidden by momentum. Second time, they are just seams.
 
-I like that about the whole arrangement. Nothing here gets to rush you and nothing gets to bore you away. The pace is set by the reading, not by the writing.
+You do both passes. That is the part I keep returning to. Not the verdict, the rereading.
 
-By the time the cursor reaches this line you have already done the work. The rest is just the last few rows.
+So this note is built for a second pass too. There is a word repeated on purpose near the top and again near here. There is a sentence that is shorter than the ones around it because it needed to be. None of this is clever. It is just the kind of thing a rereader notices.
 
-When it stops, let it stop. Do not scroll back up looking for something you missed. You did not miss it.
+Thank you for being a rereader. The seams are less lonely that way.
 `;
