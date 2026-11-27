@@ -1,1 +1,1 @@
-export const text = `Everything here costs you the same minutes and the oven does not care how good a text is. So I kept this one lean. No proving for show. What is left is the part I meant. Thank you for giving it the time it needed.`;
+export const text = `A recipe is a list until somebody's hands are in it. You are the hands on the other side of this one: you join the parts, find the shape, decide that it holds. I only supplied the ingredients. Thank you for the work. It takes two people to make a thing warm.`;
