@@ -1,1 +1,1 @@
-export const text = `There is a stool behind the counter with the varnish worn off. Somebody sat there before you, and they were tired too. I wrote for that stool, not for a plaque. Sit down whenever you need, and thank you for keeping the seat warm for the next one.`;
+export const text = `The oven light is small and it does one job well: it shows you what is actually happening in there. Your attention is like that. Whatever it lands on gets seen. So I put real things in front of it, a tray, a cloth, a pair of hands. Thank you for looking at what is there.`;
