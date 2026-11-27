@@ -1,10 +1,10 @@
-export const text = `Someone reading on a phone uses a thumb. It rests at the edge, ready, moving the page up in small increments. An unromantic digit, doing the actual work.
+export const text = `Every reading has a place where it stops, and the place is not random. It is where the entry ends or where attention runs out, and you know the difference.
 
-If you read on a screen, that is what is happening, whether or not you think of it. The thumb moves and the text gives way and the eye follows.
+If you leave here at the last line, that is a clean leave. If you leave early, that is information too, and no insult. A text can lose a reader honestly.
 
-At some point the thumb gets tired. It does not say so. It just moves a little more slowly through the last stretch.
+The good thing about stopping is that stopping is reversible. The page holds the place even when the mind does not.
 
-I want to thank the thumb, since nobody does. And the wrist it is attached to. And the arm, and the shoulder, and the person who keeps them all in a chair long enough to finish.
+There is a bookmark of a sort in the fact that you got this far. It marks a spot where the reading has already cost something.
 
-The next page up is the last. The thumb can rest after.
+Past this line there are only a few more. Then the bookmark moves to the next entry, and the same holds true there.
 `;
