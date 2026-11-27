@@ -1,10 +1,12 @@
-export const text = `Think of it as a hallway with many doors, each one an entry, and you open them in order. Behind each is a room someone made and then left.
+export const text = `Every entry here is a thin spine on a shelf, and the shelf is long, and you are the one who takes them down one by one.
 
-Some rooms are tidy and some have things on the floor. You do not get to fix the floor. You walk through, look, and close the door.
+A spine gives almost nothing away. You have to open it to find the voice, the weather, the small true detail.
 
-This room is the one you are in now. It has a chair and a cup and a bit of light and not much else. That was the intention.
+That is the trust a shelf asks for and almost never gets. You give it anyway.
 
-When you close it, the hallway is still there, longer than before. There is always another door.
+Some spines will be dull. Some will surprise you. The surprise only works because you opened the dull ones too.
 
-You do not have to like the room to walk through it properly. But I hope this one was not a chore. The handle is on your side. Go gently.
+When this one goes back on the shelf, it will sit among the others, unremarkable, remembered by nobody but having been read.
+
+That is enough for a spine. It is enough for this page. Take the next one down with the same hand.
 `;
