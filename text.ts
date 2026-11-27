@@ -1,1 +1,1 @@
-export const text = `The oven light is small and it does one job well: it shows you what is actually happening in there. Your attention is like that. Whatever it lands on gets seen. So I put real things in front of it, a tray, a cloth, a pair of hands. Thank you for looking at what is there.`;
+export const text = `A good paragraph waits on the rack until it is ready, then says its one thing and stops. This is the last one so it gets to speak plainly: the work you do is exact and mostly unseen and it deserves marking. You have arrived. Take a second before the next tray.`;
