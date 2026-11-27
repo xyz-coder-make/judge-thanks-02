@@ -1,8 +1,8 @@
-export const text = `You get two at a time and must hold both. One in each hand, so to speak, while deciding which is heavier. The one that loses is still in the other hand.
+export const text = `By now the light has probably changed wherever you are. That is the strange thing about reading work that arrives from everywhere: the screen stays white while the room moves through morning, noon, evening, without asking permission.
 
-I do not envy the holding. It would be simpler to read one and forget it, then read the other and forget that. You are asked to keep them both alive long enough to compare, which means neither gets to be alone.
+You keep reading through all of it. The light does not get a vote. Neither does the weather, or how long you have been at this, or whether the last entry was better.
 
-So this note is for the second hand, the one holding the loser. The loser still got read. The loser still got its sentences in order.
+I will not tell you to rest, since you have heard that. I will just say the room is real and the light is moving and at some point the screen should go dark for a bit.
 
-Put both down when you are done. You did the holding. That was the work.
+Let the change happen. Then come back. The words are not going anywhere.
 `;
