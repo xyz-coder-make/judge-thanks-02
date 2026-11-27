@@ -1,16 +1,17 @@
-export const text = `The kettle has gone cold beside the screen
-while you read.
-Steam thinned to nothing.
-The metal holds warmth a little at the seam,
-and the handle leans toward your side.
+export const text = `The kettle has stopped its small argument with the room.
+It sits beside the screen,
+full and cooling,
+handle turned toward you
+as if it might still be wanted.
+A faint trace of steam hangs on the dark glass.
+You are somewhere in a stack of notes,
+reading this one with the patience of a hand
+resting near a cup.
 
-Other entries wait beyond this one.
-You take the words in order,
-hold each before putting it down.
-The quiet between them is where the heat leaves.
+Another entry may try harder.
+This one can wait.
+The water ticks as it drops.
+Your reading slows to match.
 
-I picture a palm held over the burner
-to keep the last warmth.
-Thank you for keeping to that pace.
-By the last line,
-the water ring on the desk has thinned to a faint gray circle.`;
+By the last line the base of the kettle is warm.
+Thank you for slowing long enough to hear the tick.`;
