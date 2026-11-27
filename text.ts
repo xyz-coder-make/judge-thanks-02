@@ -1,12 +1,12 @@
-export const text = `When something is hard to read, the chair gets pulled closer. When it is easy, you sit back. The body reads before the mind has an opinion.
+export const text = `Late in a long reading, the screen becomes a bright panel in a dark room. The edges of the display get hard to look past. The rest is just dark.
 
-You have been pulling closer and sitting back this whole time, small distances, without deciding to.
+You keep looking at the panel. The panel keeps giving text.
 
-That is the body taking the text seriously. It knows before you do where the effort will be.
+There is a narrowness to that, the whole world down to one bright rectangle. Any writer should be glad to be the rectangle for a minute.
 
-This note probably does not deserve a pulled chair. It asks for nothing hard. It would settle for the ordinary distance, the one you use for a page that is fine.
+When you look away, the room comes back in pieces. A wall, a shape, a door. The eyes adjust.
 
-Still, if any line makes you lean in, that line is the one worth remembering. If not, sitting back is honest too.
+Do that look-away after this. Let the room return fully before the next entry, so the next one gets your whole eyes and not just the tired center of them.
 
-Either way, thank you for the posture. Push the chair back when you go. Someone else will pull it in.
+Thank you for the narrowness. It is not comfortable, but it is a kind of focus, and it was spent on words.
 `;
