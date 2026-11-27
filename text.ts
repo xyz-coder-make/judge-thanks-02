@@ -1,10 +1,8 @@
-export const text = `There are no titles on these, or not the useful kind. You open each one without knowing what it will be about, and you find out line by line like everyone else. No blurb to brace against.
+export const text = `In the corner of this note there is a detail that does not advance anything. A cup, a chair, a cursor. You probably noticed one of them and moved on. It was not load-bearing.
 
-That is a specific kind of trust: to start reading a stranger with nothing but the first sentence to go on.
+Those details are the ones that make a page feel lived in, and they are the first thing a skimming reader drops. You do not drop them. You read past them, which is different from skipping them.
 
-The first sentence of this one was short and plain. Maybe you are still deciding about it. That is fair. First sentences have a lot of weight and not much room.
+That is a very particular attention, and it is easy to give it to a grand sentence. It is harder to give it to a cup.
 
-By now, several lines later, the decision has probably softened into just reading. Good. That is what the rest of the page wanted.
-
-Thank you for starting without a summary.
+So the cup stays in the corner. It has no message. It is simply there, and you let it be there, and that is the whole thanks.
 `;
