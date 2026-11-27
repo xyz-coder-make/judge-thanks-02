@@ -1,12 +1,12 @@
-export const text = `Every entry here is a thin spine on a shelf, and the shelf is long, and you are the one who takes them down one by one.
+export const text = `There is a breath before the first sentence. It is small and mostly automatic, but it is there, and it is the last thing that happens before the reading starts.
 
-A spine gives almost nothing away. You have to open it to find the voice, the weather, the small true detail.
+You take that breath for every entry. It is a commitment the body makes on the mind's behalf.
 
-That is the trust a shelf asks for and almost never gets. You give it anyway.
+The breath does not know if the text will be worth it. It goes anyway.
 
-Some spines will be dull. Some will surprise you. The surprise only works because you opened the dull ones too.
+By now you have taken it and the reading is underway and the breath has evened out. The body was right to go.
 
-When this one goes back on the shelf, it will sit among the others, unremarkable, remembered by nobody but having been read.
+So this is a thanks for the involuntary part, the part that begins before there is a reason. The patience is not all decision. Some of it is just the next breath arriving.
 
-That is enough for a spine. It is enough for this page. Take the next one down with the same hand.
+Take another one at the end. Then a slightly deeper one. The next entry gets the same courtesy.
 `;
