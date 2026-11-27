@@ -1,10 +1,10 @@
-export const text = `Maybe this is not the first. But if it is, the screen is still cold and the day has not settled into its shape yet. The first reading of a day is different. The eyes are still themselves.
+export const text = `Someone reading on a phone uses a thumb. It rests at the edge, ready, moving the page up in small increments. An unromantic digit, doing the actual work.
 
-It is a lot to put on a page, being first. This one will not rise to it, but it can be here.
+If you read on a screen, that is what is happening, whether or not you think of it. The thumb moves and the text gives way and the eye follows.
 
-Whatever you were doing a minute ago is still on you. A dream, a bill, a small worry with a name. You brought all of it and still opened the entry.
+At some point the thumb gets tired. It does not say so. It just moves a little more slowly through the last stretch.
 
-If the first one is clumsy, let it be clumsy. The day will smooth out. The important thing is that you began, and began in order, at the top.
+I want to thank the thumb, since nobody does. And the wrist it is attached to. And the arm, and the shoulder, and the person who keeps them all in a chair long enough to finish.
 
-Good morning, or whatever hour it is. Here is the first line.
+The next page up is the last. The thumb can rest after.
 `;
