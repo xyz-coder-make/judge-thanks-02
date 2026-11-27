@@ -1,12 +1,12 @@
-export const text = `When a part is good, there is a small pull to go back over it. To check it was as good as it seemed, and to have it a second time.
+export const text = `Every text lands on top of something the reader already carries. A kitchen, a name, a year, a smell. You bring all of it to the page before the first word.
 
-You have that pull or you do not, but the good entries must sometimes make you pause at the end of a line before moving on.
+Some phrases will catch on a memory you did not choose. That is not the writer's skill. It is the luck of the collision.
 
-That pause is generous. It gives the writer the benefit of a doubt they will never hear about.
+The luck is part of the reading anyway, and you let it happen without pushing it away.
 
-A reread is also how a trick is caught. But it is how a real thing is confirmed too. Same motion, different result.
+So if something here opens a door in you that has nothing to do with me, follow it a step. The text will still be on the screen after.
 
-This note has a line near the top you could go back to, if you wanted. It is still there, unchanged, waiting to be as good or as ordinary as it was.
+Then come back and finish, and let the door close on its own.
 
-The pause is yours to spend. Thank you for the ones you have already spent.
+Thank you for bringing the whole store of it. The reading is not done by a blank. It is done by someone with a kitchen in them, or a year, or a name.
 `;
